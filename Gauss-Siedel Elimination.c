@@ -122,5 +122,7 @@ int main() {
     printf("Solution:\n");
     printVector(variable_vector, equation_count);
 
+    printf("Made by Emir Ayar");
+
     return 0;
 }
